@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nafis Aslam  
-**Final-year CS student | ML Engineer in the making | Builder of DeepWork AI 🧠**
+**Final-year CS student | Data Scientist in the making | Builder of DeepWork AI 🧠**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NafisAslam70&label=Profile%20views&color=0e75b6&style=flat" alt="NafisAslam70" />
