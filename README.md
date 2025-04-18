@@ -58,6 +58,7 @@
 
 | Project | Description |
 |--------|-------------|
+[📅 NafisDailyGrind](https://github.com/NafisAslam70/NafisDailyGrind) | My daily coding log: LeetCode, ML, DSA, MicroMasters, GFG – all tracked with auto-logging |
 | [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects) | A 30-day Machine Learning challenge with real-world applications, backdated from Jan–Feb 2025 |
 | [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI) | An AI-powered focus engine that tracks real-time attention, posture, and distraction |
 | [MeedFinance] | A school fee automation system built for real-time education admin use |
