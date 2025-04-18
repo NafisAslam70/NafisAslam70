@@ -28,61 +28,17 @@
 ## 📅 Latest Logs from NafisDailyGrind
 
 <!-- AUTO-LOG-START -->
-## ✅ 2025-04-18
 
-**Coding Ninjas:**
-- [x] midLL
-- 📁 File: `codingninjas/midLL.py`
+## 📅 Latest Logs from NafisDailyGrind
 
-📝 Notes:
-- Practiced key concepts.
+| Date       | LeetCode                  | Coding Ninjas         | ML Projects  |
+|------------|---------------------------|------------------------|--------------|
+| 2025-04-18 | — | ✅ midLL | — |
+| 2025-04-18 | — | ✅ mergeSortLL | — |
+| 2025-04-18 | ✅ 148 sortList | — | — |
+| 2025-04-18 | ✅ 234 palindromeLinkedList | — | — |
+| 2025-04-17 | — | ✅ reverseLL iterative | — |
 
----
----
-## ✅ 2025-04-18
-
-**Coding Ninjas:**
-- [x] mergeSortLL
-- 📁 File: `codingninjas/mergeSortLL.py`
-
-📝 Notes:
-- Practiced key concepts.
-
----
----
-## ✅ 2025-04-18
-
-**LeetCode:**
-- [x] 148 sortList
-- 📁 File: `leetcode/148_sortList.py`
-
-📝 Notes:
-- Practiced key concepts.
-
----
----
-## ✅ 2025-04-18
-
-**LeetCode:**
-- [x] 234 palindromeLinkedList
-- 📁 File: `leetcode/234_palindromeLinkedList.py`
-
-📝 Notes:
-- 3 steps: (1) Lnegth nikaalo aagar even to mid=l//2 agar odd mid=l//2+1
-(2) second hald ka reverse lo (3) first haldf and second half each element compare karo if true return true.
-
----
----
-## ✅ 2025-04-17
-
-**Coding Ninjas:**
-- [x] reverseLL iterative
-- 📁 File: `codingninjas/reverseLL_iterative.py`
-
-📝 Notes:
-- USE precv/curr, run loop carefull exchange, retun prev.
-
----
 <!-- AUTO-LOG-END -->
 ---
 ## 🧰 Languages and Tools
