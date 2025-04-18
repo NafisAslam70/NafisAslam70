@@ -31,13 +31,13 @@
 
 ## 📅 Latest Logs from NafisDailyGrind
 
-| Date       | LeetCode                  | Coding Ninjas         | ML Projects  |
-|------------|---------------------------|------------------------|--------------|
-| 2025-04-18 | — | ✅ midLL | — |
-| 2025-04-18 | — | ✅ mergeSortLL | — |
-| 2025-04-18 | ✅ 148 sortList | — | — |
-| 2025-04-18 | ✅ 234 palindromeLinkedList | — | — |
-| 2025-04-17 | — | ✅ reverseLL iterative | — |
+| Date       | Category       | Topics / Tasks                             |
+|------------|----------------|--------------------------------------------|
+| 2025-04-18 | Coding Ninjas | midLL |
+| 2025-04-18 | Coding Ninjas | mergeSortLL |
+| 2025-04-18 | LeetCode | 148 sortList |
+| 2025-04-18 | LeetCode | 234 palindromeLinkedList |
+| 2025-04-17 | Coding Ninjas | reverseLL iterative |
 
 <!-- AUTO-LOG-END -->
 ---
