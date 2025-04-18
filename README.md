@@ -2,7 +2,7 @@
 **Final-year CS student | Data Scientist in the making | Builder of DeepWork AI 🧠**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NafisAslam70&label=Profile%20views&color=0e75b6&style=flat" alt="NafisAslam70" />
+ <img src="https://img.shields.io/badge/Profile%20Views-1,000%2B-blueviolet?style=flat-square&logo=github" alt="views" />
   <a href="https://www.linkedin.com/in/nafis-aslam/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/NafisAslam70?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" /></a>
   <a href="mailto:nafisaslam70@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
