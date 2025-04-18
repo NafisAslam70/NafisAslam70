@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong><code style="font-size: 18px;">
-    EAT &nbsp;&nbsp; SLEEP &nbsp;&nbsp; CODE &nbsp;&nbsp; RESEARCH &nbsp;&nbsp; BUILD &nbsp;&nbsp; REPEAT 💥  
+    WakeUp &nbsp;&nbsp; LeetCode &nbsp;&nbsp; DataScience &nbsp;&nbsp; Brand &nbsp;&nbsp; REPEAT 💥  
   </code></strong>
 </p>
 
