@@ -25,6 +25,9 @@
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
 ---
+## 📅 Latest Logs from NafisDailyGrind
+
+
 
 ## 🧰 Languages and Tools
 
