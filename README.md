@@ -29,8 +29,6 @@
 
 <!-- AUTO-LOG-START -->
 
-## 📅 Latest Logs from NafisDailyGrind
-
 | Date       | Category       | Topics / Tasks                             |
 |------------|----------------|--------------------------------------------|
 | 2025-04-18 | Coding Ninjas | midLL |
