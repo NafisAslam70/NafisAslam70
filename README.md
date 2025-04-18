@@ -25,20 +25,6 @@
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
 ---
-## 📅 Latest Logs from NafisDailyGrind
-
-<!-- AUTO-LOG-START -->
-
-| Date       | Category       | Topics / Tasks                             |
-|------------|----------------|--------------------------------------------|
-| 2025-04-18 | Coding Ninjas | midLL |
-| 2025-04-18 | Coding Ninjas | mergeSortLL |
-| 2025-04-18 | LeetCode | 148 sortList |
-| 2025-04-18 | LeetCode | 234 palindromeLinkedList |
-| 2025-04-17 | Coding Ninjas | reverseLL iterative |
-
-<!-- AUTO-LOG-END -->
----
 ## 🧰 Languages and Tools
 
 <p align="center">
@@ -54,6 +40,21 @@
 </p>
 
 ---
+## 📅 Latest Logs from NafisDailyGrind
+
+<!-- AUTO-LOG-START -->
+
+| Date       | Category       | Topics / Tasks                             |
+|------------|----------------|--------------------------------------------|
+| 2025-04-18 | Coding Ninjas | midLL |
+| 2025-04-18 | Coding Ninjas | mergeSortLL |
+| 2025-04-18 | LeetCode | 148 sortList |
+| 2025-04-18 | LeetCode | 234 palindromeLinkedList |
+| 2025-04-17 | Coding Ninjas | reverseLL iterative |
+
+<!-- AUTO-LOG-END -->
+---
+
 
 ## 📈 GitHub Stats & Streak
 
