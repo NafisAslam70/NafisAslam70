@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nafis Aslam</h1>
-<h3 align="center">Final-year CS student | ML Engineer in the making | Builder of DeepWork AI 🧠</h3>
+# Hi 👋, I'm Nafis Aslam  
+**Final-year CS student | ML Engineer in the making | Builder of DeepWork AI 🧠**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NafisAslam70&label=Profile%20views&color=0e75b6&style=flat" alt="NafisAslam70" />
@@ -10,40 +10,67 @@
 
 ---
 
-### 🧠 About Me
-```diff
-- EAT
-- SLEEP
-- CODE
-- RESEARCH
-- BUILD
-- REPEAT
-🎓 Final-year CS student at Universiti Sains Malaysia 🇲🇾
+## 🧠 About Me
 
-🧠 MITx MicroMasters in Data Science (Ongoing)
+<p align="center">
+  <strong><code style="font-size: 18px;">
+    EAT &nbsp;&nbsp; SLEEP &nbsp;&nbsp; CODE &nbsp;&nbsp; RESEARCH &nbsp;&nbsp; BUILD &nbsp;&nbsp; REPEAT 💥  
+  </code></strong>
+</p>
 
-👨‍💻 Building real-world tools: DeepWork AI, [MeedFinance], 30-ML-Projects
+- 🎓 Final-year CS student at Universiti Sains Malaysia 🇲🇾  
+- 🧠 MITx MicroMasters in Data Science (Ongoing)  
+- 👨‍💻 Building real-world tools: [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI), [MeedFinance], [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects)  
+- 🧪 Exploring: YOLO, MediaPipe, Computer Vision, Augmentation  
+- 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
-🧪 Exploring: YOLO, MediaPipe, Computer Vision, Augmentation
+---
 
-🌱 Into AI, EdTech, and productivity ecosystems
+## 🧰 Languages and Tools
 
-🧰 Languages and Tools
-<p align="center"> <img src="https://img.shields.io/badge/Python-F8DC3E?style=flat&logo=python&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" /> <img src="https://img.shields.io/badge/YOLOv8-FF0080?style=flat" /> <img src="https://img.shields.io/badge/MediaPipe-orange?style=flat&logo=google" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" /> </p>
-📈 GitHub Stats & Streak
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAslam70&layout=compact&theme=tokyonight" /> </p>
-🛠️ Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-F8DC3E?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF0080?style=flat" />
+  <img src="https://img.shields.io/badge/MediaPipe-orange?style=flat&logo=google" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+</p>
 
-Project	Description
-30-ML-Projects	A 30-day Machine Learning project challenge with real-world applications, backdated to Jan–Feb 2025.
-DeepWork AI	An AI-powered focus engine that tracks real-time attention, posture, and distraction states.
-[MeedFinance]	A school fee automation system built for real-time education admin use.
-🔗 Connect With Me
-🔗 LinkedIn
+---
 
-📬 nafisaslam70@gmail.com
+## 📈 GitHub Stats & Streak
 
-🧠 Upcoming personal website + portfolio: Coming soon...
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAslam70&layout=compact&theme=tokyonight" />
+</p>
 
-“Success is a war between discipline and distraction.”
-— Nafis Aslam 💥
+---
+
+## 🛠️ Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects) | A 30-day Machine Learning challenge with real-world applications, backdated from Jan–Feb 2025 |
+| [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI) | An AI-powered focus engine that tracks real-time attention, posture, and distraction |
+| [MeedFinance] | A school fee automation system built for real-time education admin use |
+
+---
+
+## 🔗 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nafis-aslam/)
+- 📬 nafisaslam70@gmail.com
+- 🧠 Portfolio: _Coming soon..._
+
+---
+
+> _“Success is a war between discipline and distraction.”_  
+> — **Nafis Aslam** 💥
