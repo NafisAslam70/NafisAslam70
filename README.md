@@ -20,11 +20,28 @@
 
 - 🎓 Final-year CS student at Universiti Sains Malaysia 🇲🇾  
 - 🧠 MITx MicroMasters in Data Science (Ongoing)  
-- 👨‍💻 Building real-world tools: [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI), [MeedFinance], [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects)  
+- 👨‍💻 Building real-world tools: [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI), [MeedFinance](https://github.com/NafisAslam70/MeedFinance), [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects)  
 - 🧪 Exploring: YOLO, MediaPipe, Computer Vision, Augmentation  
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
 ---
+
+## 📅 Latest Logs from NafisDailyGrind
+
+<!-- AUTO-LOG-START -->
+
+| Date       | Category       | Topics / Tasks                             |
+|------------|----------------|--------------------------------------------|
+| 2025-04-21 | Coding Ninjas  | arr tripletSum, arr rotateArray, arr removeDuplicate, arr pairSum |
+| 2025-04-20 | Coding Ninjas  | swapNodes, KreverseLL                      |
+| 2025-04-20 | LeetCode       | 1721 swapNodes                             |
+| 2025-04-19 | Coding Ninjas  | evenAfterOdd                               |
+| 2025-04-19 | LeetCode       | 2 AddTwoNumuers, 19 removeNthNodeFromEnd, 146 LinkedLIstCycleII |
+
+<!-- AUTO-LOG-END -->
+
+---
+
 ## 🧰 Languages and Tools
 
 <p align="center">
@@ -40,26 +57,11 @@
 </p>
 
 ---
-## 📅 Latest Logs from NafisDailyGrind
-
-<!-- AUTO-LOG-START -->
-
-| Date       | Category       | Topics / Tasks                             |
-|------------|----------------|--------------------------------------------|
-| 2025-04-18 | Coding Ninjas | midLL |
-| 2025-04-18 | Coding Ninjas | mergeSortLL |
-| 2025-04-18 | LeetCode | 148 sortList |
-| 2025-04-18 | LeetCode | 234 palindromeLinkedList |
-| 2025-04-17 | Coding Ninjas | reverseLL iterative |
-
-<!-- AUTO-LOG-END -->
----
-
 
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&timestamp=20250421" alt="streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" />
   <br />
@@ -72,10 +74,10 @@
 
 | Project | Description |
 |--------|-------------|
-[📅 NafisDailyGrind](https://github.com/NafisAslam70/NafisDailyGrind) | My daily coding log: LeetCode, ML, DSA, MicroMasters, GFG – all tracked with auto-logging |
+| [📅 NafisDailyGrind](https://github.com/NafisAslam70/NafisDailyGrind) | My daily coding log: LeetCode, ML, DSA, MicroMasters, GFG – all tracked with auto-logging |
 | [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects) | A 30-day Machine Learning challenge with real-world applications, backdated from Jan–Feb 2025 |
 | [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI) | An AI-powered focus engine that tracks real-time attention, posture, and distraction |
-| [MeedFinance] | A school fee automation system built for real-time education admin use |
+| [MeedFinance](https://github.com/NafisAslam70/MeedFinance) | A school fee automation system built for real-time education admin use |
 
 ---
 
