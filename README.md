@@ -60,12 +60,13 @@
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=NafisAslam70&theme=tokyonight" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAslam70&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
