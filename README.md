@@ -33,11 +33,11 @@
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-04-25 | Coding Ninjas | stack reverseStack |
 | 2025-04-24 | Coding Ninjas | stack isBalancedParenthesis |
 | 2025-04-24 | Coding Ninjas | LL swapNodes |
 | 2025-04-24 | Coding Ninjas | LL reverseLL recur |
 | 2025-04-24 | Coding Ninjas | LL reverseLL iterative |
-| 2025-04-24 | Coding Ninjas | LL midLL |
 
 <!-- AUTO-LOG-END -->
 ---
@@ -60,13 +60,12 @@
 ## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NafisAslam70&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAslam70&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
