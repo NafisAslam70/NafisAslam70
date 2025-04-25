@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong><code style="font-size: 18px;">
-    EAT &nbsp;&nbsp; SLEEP &nbsp;&nbsp; CODE &nbsp;&nbsp; RESEARCH &nbsp;&nbsp; BUILD &nbsp;&nbsp; REPEAT 💥  
+    WAKE-UP &nbsp;&nbsp; CODE &nbsp;&nbsp; EAT &nbsp;&nbsp; BUILD &nbsp;&nbsp; SLEEP &nbsp;&nbsp; REPEAT 💥  
   </code></strong>
 </p>
 
