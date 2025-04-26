@@ -14,7 +14,7 @@
 
 <p align="center">
   <strong><code style="font-size: 18px;">
-    WAKE-UP &nbsp;&nbsp; CODE &nbsp;&nbsp; EAT &nbsp;&nbsp; BUILD &nbsp;&nbsp; SLEEP &nbsp;&nbsp; REPEAT 💥  
+    EAT &nbsp;&nbsp; SLEEP &nbsp;&nbsp; CODE &nbsp;&nbsp; RESEARCH &nbsp;&nbsp; BUILD &nbsp;&nbsp; REPEAT 💥  
   </code></strong>
 </p>
 
@@ -33,11 +33,11 @@
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-04-26 | Coding Ninjas | stack checkRedundantBrackets |
+| 2025-04-26 | LeetCode | 155 MinStack |
+| 2025-04-26 | LeetCode | 20 BalancedParenthesis |
 | 2025-04-25 | Coding Ninjas | stack reverseStack |
 | 2025-04-24 | Coding Ninjas | stack isBalancedParenthesis |
-| 2025-04-24 | Coding Ninjas | LL swapNodes |
-| 2025-04-24 | Coding Ninjas | LL reverseLL recur |
-| 2025-04-24 | Coding Ninjas | LL reverseLL iterative |
 
 <!-- AUTO-LOG-END -->
 ---
