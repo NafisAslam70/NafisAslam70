@@ -25,18 +25,18 @@
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
 ---
+## 📅 Latest Logs from NafisDailyGrind
 
 <!-- AUTO-LOG-START -->
 
-## 📅 Latest Logs from NafisDailyGrind
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-04-27 | LeetCode | 503 nextGreaterElement II |
+| 2025-04-27 | LeetCode | 56 mergeIntervals |
 | 2025-04-26 | Coding Ninjas | stack checkRedundantBrackets |
 | 2025-04-26 | LeetCode | 155 MinStack |
 | 2025-04-26 | LeetCode | 20 BalancedParenthesis |
-| 2025-04-25 | Coding Ninjas | stack reverseStack |
-| 2025-04-24 | Coding Ninjas | stack isBalancedParenthesis |
 
 <!-- AUTO-LOG-END -->
 ---
