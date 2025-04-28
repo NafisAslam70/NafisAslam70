@@ -29,14 +29,15 @@
 
 <!-- AUTO-LOG-START -->
 
+## 📅 Latest Logs from NafisDailyGrind
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-04-28 | Coding Ninjas | stack minimumBracketReversal |
+| 2025-04-28 | Coding Ninjas | arr equilibriumIndex |
+| 2025-04-28 | LeetCode | 3 LongestSubstringWithoutRepeatingCharacter |
+| 2025-04-27 | LeetCode | 150 evaluateReversePolishedNotation |
 | 2025-04-27 | LeetCode | 503 nextGreaterElement II |
-| 2025-04-27 | LeetCode | 56 mergeIntervals |
-| 2025-04-26 | Coding Ninjas | stack checkRedundantBrackets |
-| 2025-04-26 | LeetCode | 155 MinStack |
-| 2025-04-26 | LeetCode | 20 BalancedParenthesis |
 
 <!-- AUTO-LOG-END -->
 ---
