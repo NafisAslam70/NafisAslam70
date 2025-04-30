@@ -33,11 +33,11 @@
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-04-30 | LeetCode | 15 3Sum |
+| 2025-04-29 | LeetCode | 1 twoSum |
+| 2025-04-28 | LeetCode | 239 SlidingWindowMaximum |
+| 2025-04-28 | LeetCode | optimal 3 LongestSubstringWithoutRepeatingCharacter |
 | 2025-04-28 | Coding Ninjas | stack minimumBracketReversal |
-| 2025-04-28 | Coding Ninjas | arr equilibriumIndex |
-| 2025-04-28 | LeetCode | 3 LongestSubstringWithoutRepeatingCharacter |
-| 2025-04-27 | LeetCode | 150 evaluateReversePolishedNotation |
-| 2025-04-27 | LeetCode | 503 nextGreaterElement II |
 
 <!-- AUTO-LOG-END -->
 ---
