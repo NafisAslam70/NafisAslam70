@@ -31,11 +31,11 @@
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-05-02 | LeetCode | 242 validAnagram |
+| 2025-05-02 | LeetCode | optimal 3 LongestSubstringWithoutRepeatingCharacter |
+| 2025-05-02 | LeetCode | 217 containsDuplicate |
 | 2025-05-01 | LeetCode | 128 LongestConsecutiveSequence |
 | 2025-04-30 | LeetCode | 15 3Sum |
-| 2025-04-29 | LeetCode | 1 twoSum |
-| 2025-04-28 | LeetCode | 239 SlidingWindowMaximum |
-| 2025-04-28 | LeetCode | optimal 3 LongestSubstringWithoutRepeatingCharacter |
 
 <!-- AUTO-LOG-END -->
 ---
