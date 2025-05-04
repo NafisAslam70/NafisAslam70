@@ -25,17 +25,18 @@
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
 
 ---
-## 📅 Latest Logs from NafisDailyGrind
 
 <!-- AUTO-LOG-START -->
 
+## 📅 Latest Logs from NafisDailyGrind
+
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-05-04 | LeetCode | 167 TwoSum-II |
+| 2025-05-03 | LeetCode | 75 sortColors |
+| 2025-05-03 | LeetCode | 3 optimal LongestSubstringWithoutRepeatingCharacter |
 | 2025-05-02 | LeetCode | 242 validAnagram |
 | 2025-05-02 | LeetCode | optimal 3 LongestSubstringWithoutRepeatingCharacter |
-| 2025-05-02 | LeetCode | 217 containsDuplicate |
-| 2025-05-01 | LeetCode | 128 LongestConsecutiveSequence |
-| 2025-04-30 | LeetCode | 15 3Sum |
 
 <!-- AUTO-LOG-END -->
 ---
