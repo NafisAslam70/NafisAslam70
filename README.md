@@ -26,17 +26,18 @@
 
 ---
 
+
 <!-- AUTO-LOG-START -->
 
 ## 📅 Latest Logs from NafisDailyGrind
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-05-04 | Coding Ninjas | oops inheritance |
 | 2025-05-04 | LeetCode | 167 TwoSum-II |
 | 2025-05-03 | LeetCode | 75 sortColors |
 | 2025-05-03 | LeetCode | 3 optimal LongestSubstringWithoutRepeatingCharacter |
 | 2025-05-02 | LeetCode | 242 validAnagram |
-| 2025-05-02 | LeetCode | optimal 3 LongestSubstringWithoutRepeatingCharacter |
 
 <!-- AUTO-LOG-END -->
 ---
