@@ -29,14 +29,15 @@
 
 <!-- AUTO-LOG-START -->
 
+## 📅 Latest Logs from NafisDailyGrind
 
 | Date       | Category         | Topics / Tasks                             |
 |------------|------------------|--------------------------------------------|
+| 2025-05-07 | LeetCode | 73 setMatrixZero |
 | 2025-05-06 | LeetCode | 125 validPalindrome |
 | 2025-05-05 | LeetCode | 11 containerWithMostWater |
 | 2025-05-04 | LeetCode | 42 trappingRainWater |
 | 2025-05-04 | Coding Ninjas | oops inheritance |
-| 2025-05-04 | LeetCode | 167 TwoSum-II |
 
 <!-- AUTO-LOG-END -->
 ---
