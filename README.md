@@ -80,7 +80,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nafis-aslam/)
 - 📬 nafisaslam70@gmail.com
-- 🧠 Portfolio: _Coming soon..._
+- 🧠 Portfolio: www.nafisaslam.com
 
 ---
 
