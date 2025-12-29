@@ -18,8 +18,8 @@
   </code></strong>
 </p>
 
-- 🎓 Final-year CS student at Universiti Sains Malaysia 🇲🇾  
-- 🧠 MITx MicroMasters in Data Science (Ongoing)  
+- 🎓 Recent CS gradauate from Universiti Sains Malaysia 🇲🇾  
+- 🧠 MITx MicroMasters in Data Science   
 - 👨‍💻 Building real-world tools: [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI), [MeedFinance], [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects)  
 - 🧪 Exploring: YOLO, MediaPipe, Computer Vision, Augmentation  
 - 🌱 Passionate about AI, EdTech, and productivity ecosystems  
