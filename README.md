@@ -1,5 +1,5 @@
 # Nafis Aslam
-**CV Researcher · Preprint Author · Builder of DeepWork AI · MSR RF Applicant**
+**MIT micromasters | USM Malaysia Graduate | CV Researcher · Preprint Author · Builder of DeepWork AI ·**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nafis-aslam/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/NafisAslam70)
