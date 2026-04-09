@@ -12,11 +12,9 @@
 
 ## Why This Work Exists
 
-While completing my BSc at USM, I simultaneously pursued the MITx MicroMasters — four graduate-level MIT courses, entirely online, self-funded, alongside a full degree. No classroom rhythm. No peer presence. No external structure. Just me, a screen, and every possible distraction competing for the same mental space. I finished strong — but I was acutely aware throughout of how fragile that focus was, and how much easier it would be to lose than to keep. The tools to support that kind of self-directed, high-stakes learning simply don't exist in any serious form.
+Online. Self-funded. No structure. Four graduate MIT courses alongside a full degree — just me, a screen, and every possible distraction. I finished strong, but I was acutely aware of how fragile that focus was. Then I remembered the school I ran — **300 students, Jharkhand** — where talented kids fell behind not from lack of effort, but because **disengagement is quiet.** Both problems pointed to the same gap: the tools for deep, sustained attention simply don't exist.
 
-> *The students I most want to help are the ones who want to do great work and keep failing at it — not from lack of ability, but from lack of the right environment.*
-
-Before computer science, I ran a school — **300 residential students, Jharkhand, India.** A teacher cannot teach and simultaneously track whether thirty students are following the lesson. By the time disengagement becomes visible — a glazed expression, a dropped head — that student has often already been gone for minutes. Talented students fell behind not because they stopped caring, but because **disengagement is quiet.** That structural problem became my research question.
+> *The people I want to help are the ones who want to do great work and keep failing at it — not from lack of ability, but from lack of the right environment.*
 
 ---
 
@@ -24,9 +22,9 @@ Before computer science, I ran a school — **300 residential students, Jharkhan
 
 ### DeepLens Engine for Focus (DLEF) · 🥇 Gold Award, PIXEL 2025
 
-A multi-layered CV framework for real-time attention monitoring. Treats attention as a time-series signal — not a per-frame label. The novel 20/30s temporal heuristic models how focus accumulates and decays. Runs entirely on-device with no video storage. Shipped as **DeepWork AI**.
+Treats attention as a time-series signal — not a per-frame label. The 20/30s temporal heuristic models how focus accumulates and decays. Six cognitive states. On-device, no video storage. Shipped as **DeepWork AI**. Open problems: cross-subject generalisation · EEG-vision fusion · compressed deployment.
 
-Open problems: cross-subject generalisation · EEG-vision fusion for proactive prediction · compressed deployment on commodity hardware.
+`YOLOv11n-cls` `MediaPipe` `OpenCV` `PyTorch` `Next.js` `Flask`
 
 > **Preprint · DOI: [10.5281/zenodo.19266394](https://doi.org/10.5281/zenodo.19266394)**
 
@@ -36,25 +34,25 @@ Open problems: cross-subject generalisation · EEG-vision fusion for proactive p
 
 | | | |
 |---|---|---|
-| 2026 – present | **CV Lab Fellow · WorldQuant University** | 6 applied CV projects · classification, detection, GANs, diffusion |
-| 2024 – 2025 | **DeepWork AI / DLEF · Gold Award PIXEL 2025** | Real-time attention monitoring · shipped · Zenodo preprint |
-| 2024 – 2025 | **MicroMasters Statistics & Data Science · MITx** | Data Analysis 93% · ML 83% · self-funded alongside full degree |
-| 2021 – 2025 | **BSc CS — Intelligent Computing (AI) · USM** | Major GPA 3.82 · Dean's List (3 consecutive semesters) |
-| 2018 – 2022 | **Superintendent · Meed Public School, Jharkhand** | 300 residential students · the origin of this research |
-
----
-
-## Current Focus
-
-- Targeting funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester *(Fall 2026)*
-- Next research: proactive distraction prediction via EEG + temporal vision fusion *(open problem)*
-- Co-founding Meed — a systems-first school in rural Jharkhand *(ongoing)*
+| 2026 – now | **CV Lab Fellow · WorldQuant** | 6 applied CV projects · GANs · diffusion · detection |
+| 2024 – 2025 | **DeepWork AI / DLEF · 🥇 Gold PIXEL 2025** | Real-time attention · temporal heuristic · Zenodo preprint |
+| 2024 – 2025 | **MicroMasters · MITx** | Data Analysis 93% · ML 83% · self-funded · online |
+| 2021 – 2025 | **BSc CS · USM Malaysia** | Major GPA 3.82 · Dean's List 3 semesters |
+| 2018 – 2022 | **Superintendent · Meed Public School, Jharkhand** | 300 students · the origin of this research |
 
 ---
 
 ## Stack
 
-`PyTorch` `YOLOv11` `MediaPipe` `OpenCV` `Python` `Scikit-learn` `Next.js` `PostgreSQL` `Hugging Face` `Drizzle ORM` `Flask` `Git`
+`PyTorch` `YOLOv11` `MediaPipe` `OpenCV` `Python` `Scikit-learn` `Next.js` `PostgreSQL` `Hugging Face` `Drizzle ORM` `Twilio` `Flask` `Git`
+
+---
+
+## Current Focus
+
+- Funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester *(Fall 2026)*
+- Next research: EEG + vision fusion for proactive distraction prediction *(open problem)*
+- Co-founding Meed — systems-first school, rural Jharkhand *(ongoing)*
 
 ---
 
