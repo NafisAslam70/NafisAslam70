@@ -66,7 +66,6 @@ Cross-subject generalization · EEG–Vision fusion · True edge deployment
 
 ### Craft & Tools
 
-```text
 Core          → PyTorch · YOLOv11 · MediaPipe · OpenCV
 Engineering   → Next.js · Flask · PostgreSQL · Drizzle ORM · Twilio
 Research      → Hugging Face · Scikit-learn · Git
@@ -90,4 +89,3 @@ Co-founding Meed — a systems-first school in Jharkhand, India.
 
 Building quietly. Thinking deeply. Protecting what matters most — human focus.
 
-```
