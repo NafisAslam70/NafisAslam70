@@ -51,6 +51,8 @@ Now live as **DeepWork AI**.
 
 *Open frontiers I'm exploring:*  
 Cross-subject generalization · EEG–Vision fusion · True edge deployment
+
+---
 ## Journey
 
 | | | |
