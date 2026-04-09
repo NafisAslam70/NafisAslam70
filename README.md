@@ -1,4 +1,6 @@
+<div align="center">
 # Nafis Aslam
+</div>
 
 <div align="center">
 
@@ -13,7 +15,7 @@
 ---
 
 <div align="center">
-  <h2><strong>Computer Vision Researcher</strong><br>
+  <h2><strong>Computer Vision & Deep Learning Researcher</strong><br>
   <em>Building systems that protect and amplify human attention</em></h2>
 </div>
 
