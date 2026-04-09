@@ -1,5 +1,5 @@
 <div align="center">
-# Nafis Aslam
+<h1> Nafis Aslam</h1>
 </div>
 
 <div align="center">
