@@ -1,32 +1,42 @@
-# Nafis Aslam
+# nafis_aslam.research
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-aslam/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NafisAslam70)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nafisaslam1819@gmail.com)
-[![Website](https://img.shields.io/badge/-nafisaslam.com-000?style=flat)](https://nafisaslam.com)
+[![Website](https://img.shields.io/badge/-nafisaslam.com-555?style=flat)](https://nafisaslam.com)
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19266394-blue?style=flat)](https://doi.org/10.5281/zenodo.19266394)
 
-**Computer Vision Researcher · Preprint Author · Builder of DeepWork AI**
+**CV Researcher · Preprint Author · Builder of DeepWork AI**
 
 ---
 
-## Why This Work Exists
+```
+~ $ cat why_this_exists.txt
+```
 
-Online. Self-funded. No structure. Four graduate MIT courses alongside a full degree — just me, a screen, and every possible distraction. I finished strong, but I was acutely aware of how fragile that focus was. Then I remembered the school I ran — **300 students, Jharkhand** — where talented kids fell behind not from lack of effort, but because **disengagement is quiet.** Both problems pointed to the same gap: the tools for deep, sustained attention simply don't exist.
+> Four graduate MIT courses. Online. Self-funded. No classroom, no peers, no structure —
+> just a screen and every possible distraction competing for the same mental space.
+> I finished strong. But I was aware throughout of how close I was to losing it.
+> That kind of learning — high-stakes, self-directed, no external scaffolding —
+> demands a level of sustained attention that no tool seriously supports.
+> Deep work isn't a productivity hack. It's the only way ambitious people
+> actually get hard things done. And it's under assault.
 
-> *The people I want to help are the ones who want to do great work and keep failing at it — not from lack of ability, but from lack of the right environment.*
+`// this is the problem. DLEF is the first attempt at an answer.`
 
 ---
 
 ## Research
 
-### DeepLens Engine for Focus (DLEF) · 🥇 Gold Award, PIXEL 2025
+### DeepLens Engine for Focus (DLEF) · Gold Award Top 5% · Preprint 2026
 
-Treats attention as a time-series signal — not a per-frame label. The 20/30s temporal heuristic models how focus accumulates and decays. Six cognitive states. On-device, no video storage. Shipped as **DeepWork AI**. Open problems: cross-subject generalisation · EEG-vision fusion · compressed deployment.
+Attention modelled as a time-series signal — not a per-frame label. The 20/30s temporal heuristic captures how focus accumulates and decays. Six cognitive states. On-device inference. No video storage. Shipped as DeepWork AI.
+
+`// open: cross-subject generalisation · EEG-vision fusion · edge deployment`
 
 `YOLOv11n-cls` `MediaPipe` `OpenCV` `PyTorch` `Next.js` `Flask`
 
-> **Preprint · DOI: [10.5281/zenodo.19266394](https://doi.org/10.5281/zenodo.19266394)**
+→ [doi.org/10.5281/zenodo.19266394](https://doi.org/10.5281/zenodo.19266394)
 
 ---
 
@@ -34,11 +44,11 @@ Treats attention as a time-series signal — not a per-frame label. The 20/30s t
 
 | | | |
 |---|---|---|
-| 2026 – now | **CV Lab Fellow · WorldQuant** | 6 applied CV projects · GANs · diffusion · detection |
-| 2024 – 2025 | **DeepWork AI / DLEF · 🥇 Gold PIXEL 2025** | Real-time attention · temporal heuristic · Zenodo preprint |
-| 2024 – 2025 | **MicroMasters · MITx** | Data Analysis 93% · ML 83% · self-funded · online |
-| 2021 – 2025 | **BSc CS · USM Malaysia** | Major GPA 3.82 · Dean's List 3 semesters |
-| 2018 – 2022 | **Superintendent · Meed Public School, Jharkhand** | 300 students · the origin of this research |
+| 2018–2022 | **Superintendent · Meed Public School** | 300 students · the origin |
+| 2021–2025 | **BSc CS · USM Malaysia** | GPA 3.82 · Dean's List 3x |
+| 2024–2025 | **MicroMasters · MITx** | Data Analysis 93% · ML 83% |
+| 2024–2025 | **DeepWork AI / DLEF** | Gold Award · Zenodo preprint |
+| 2026–now | **CV Lab Fellow · WorldQuant** | 6 CV projects · active |
 
 ---
 
@@ -50,9 +60,11 @@ Treats attention as a time-series signal — not a per-frame label. The 20/30s t
 
 ## Current Focus
 
-- Funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester *(Fall 2026)*
-- Next research: EEG + vision fusion for proactive distraction prediction *(open problem)*
-- Co-founding Meed — systems-first school, rural Jharkhand *(ongoing)*
+```
+→ Funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester  // Fall 2026
+→ Next: EEG + vision fusion for proactive distraction prediction    // open problem
+→ Co-founding Meed — systems-first school, Jharkhand               // ongoing
+```
 
 ---
 
@@ -63,6 +75,4 @@ Treats attention as a time-series signal — not a per-frame label. The 20/30s t
 
 ---
 
-> *"Success is a war between discipline and distraction."*
->
-> — Nafis Aslam
+`// "Success is a war between discipline and distraction." — Nafis Aslam`
