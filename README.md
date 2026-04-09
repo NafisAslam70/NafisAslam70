@@ -1,89 +1,55 @@
-# Hi 👋, I'm Nafis Aslam  
-**Recent Graduate of MIT Micromasters and Universiti Sains Malaysia  | Data Scientist in the making | Builder of DeepWork AI 🧠**
+# Nafis Aslam
+**CV Researcher · Preprint Author · Builder of DeepWork AI · MSR RF Applicant**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NafisAslam70&label=Profile%20views&color=0e75b6&style=flat" alt="NafisAslam70" />
-  <a href="https://www.linkedin.com/in/nafis-aslam/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://github.com/NafisAslam70?tab=repositories"><img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" /></a>
-  <a href="mailto:nafisaslam70@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nafis-aslam/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/NafisAslam70)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:nafisaslam1819@gmail.com)
+[![Website](https://img.shields.io/badge/-nafisaslam.com-black?style=flat)](https://nafisaslam.com)
 
----
-
-## 🧠 About Me
-
-<p align="center">
-  <strong><code style="font-size: 18px;">
-    EAT &nbsp;&nbsp; SLEEP &nbsp;&nbsp; CODE &nbsp;&nbsp; RESEARCH &nbsp;&nbsp; BUILD &nbsp;&nbsp; REPEAT 💥  
-  </code></strong>
-</p>
-
-- 🎓 Recent CS gradauate from Universiti Sains Malaysia 🇲🇾  
-- 🧠 MITx MicroMasters in Data Science   
-- 👨‍💻 Building real-world tools: [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI), [MeedFinance], [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects)  
-- 🧪 Exploring: YOLO, MediaPipe, Computer Vision, Augmentation  
-- 🌱 Passionate about AI, EdTech, and productivity ecosystems  
-
----
-## 📅 Latest Logs from NafisDailyGrind
-
-| Date       | Category         | Topics / Tasks                             |
-|------------|------------------|--------------------------------------------|
-| 2025-05-08 | Coding Ninjas | oops3 divisionProblem |
-| 2025-05-07 | LeetCode | 73 setMatrixZero |
-| 2025-05-06 | LeetCode | 125 validPalindrome |
-| 2025-05-05 | LeetCode | 11 containerWithMostWater |
-| 2025-05-04 | LeetCode | 42 trappingRainWater |
-
-<!-- AUTO-LOG-END -->
----
-## 🧰 Languages and Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-F8DC3E?style=flat&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/YOLOv8-FF0080?style=flat" />
-  <img src="https://img.shields.io/badge/MediaPipe-orange?style=flat&logo=google" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
-</p>
+**Research Interests:** Computer Vision · Human Attention Modelling · Multimodal AI · Vision-Language Systems
 
 ---
 
-## 📈 GitHub Stats & Streak
+## Research
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafisAslam70&layout=compact&theme=tokyonight" />
-</p>
+### DeepLens Engine for Focus (DLEF) · Gold Award, PIXEL 2025
+Real-time attention monitoring system combining YOLOv11n-cls, MediaPipe gaze and EAR tracking, and a novel 20/30-second temporal heuristic that models attention as a time-series signal — classifying six cognitive states (Focused, Phone, Absent, Drowsy, Looking Away, Bad Posture). Runs entirely on-device with no video storage. Shipped as **DeepWork AI**.
+
+> Preprint · DOI: [10.5281/zenodo.19266394](https://doi.org/10.5281/zenodo.19266394)
 
 ---
 
-## 🛠️ Featured Projects
+## Education
 
-| Project | Description |
-|--------|-------------|
-[📅 NafisDailyGrind](https://github.com/NafisAslam70/NafisDailyGrind) | My daily coding log: LeetCode, ML, DSA, MicroMasters, GFG – all tracked with auto-logging |
-| [30-ML-Projects](https://github.com/NafisAslam70/30-ML-Projects) | A 30-day Machine Learning challenge with real-world applications, backdated from Jan–Feb 2025 |
-| [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI) | An AI-powered focus engine that tracks real-time attention, posture, and distraction |
-| [MeedFinance] | A school fee automation system built for real-time education admin use |
+**BSc (Hons.) Computer Science — Intelligent Computing (AI)**
+Universiti Sains Malaysia · Major GPA 3.82 · Dean's List (3 consecutive semesters) · 2021–2025
 
----
-
-## 🔗 Connect With Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nafis-aslam/)
-- 📬 nafisaslam70@gmail.com
-- 🧠 Portfolio: www.nafisaslam.com
+**MicroMasters in Statistics and Data Science**
+MITx (edX) · Data Analysis 93% · Machine Learning 83% · Aug 2024–Dec 2025
 
 ---
 
-> _“Success is a war between discipline and distraction.”_  
-> — **Nafis Aslam** 💥
+## Shipped Products
 
+| Product | Description |
+|---|---|
+| [DeepWork AI](https://github.com/NafisAslam70/DeepWork-AI) | Real-time focus engine — attention overlay, Pomodoro, session analytics |
+| MeedianAI Flow | Full-stack school ops platform — Next.js, Drizzle, NeonDB, Twilio, LLM assistant, biometric attendance |
+| Deep Calendar | Depth-block scheduling engine for goal setting and routine planning |
+
+---
+
+## Background
+
+**Superintendent · Meed Public School, Jharkhand, India · 2018–2022**
+Managed academics and operations for 300 residential students from underserved communities. The structural problem of classroom attention monitoring at scale directly motivated the DLEF research direction.
+
+---
+
+## Stack
+`PyTorch` `YOLOv11` `MediaPipe` `OpenCV` `Python` `Scikit-learn` `Next.js` `PostgreSQL` `Hugging Face` `Git`
+
+---
+
+> *"Success is a war between discipline and distraction."*
+> — Nafis Aslam
