@@ -1,91 +1,78 @@
-#Nafis Aslam
+# nafis_aslam.research
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-aslam/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/NafisAslam70)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:nafisaslam1819@gmail.com)
+[![Website](https://img.shields.io/badge/-nafisaslam.com-555?style=flat)](https://nafisaslam.com)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19266394-blue?style=flat)](https://doi.org/10.5281/zenodo.19266394)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafis-aslam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NafisAslam70)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nafisaslam1819@gmail.com)
-[![Website](https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=firefox&logoColor=white)](https://nafisaslam.com)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19266394-0066CC?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.19266394)
-
-</div>
+**CV Researcher · Preprint Author · Builder of DeepWork AI**
 
 ---
 
-<div align="center">
-  <h2><strong>Computer Vision Researcher</strong><br>
-  <em>Building systems that protect and amplify human attention</em></h2>
-</div>
+```
+~ $ cat why_this_exists.txt
+```
+
+> Four graduate MIT courses. Online. Self-funded. No classroom, no peers, no structure —
+> just a screen and every possible distraction competing for the same mental space.
+> I finished strong. But I was aware throughout of how close I was to losing it.
+> That kind of learning — high-stakes, self-directed, no external scaffolding —
+> demands a level of sustained attention that no tool seriously supports.
+> Deep work isn't a productivity hack. It's the only way ambitious people
+> actually get hard things done. And it's under assault.
+
+`// this is the problem. DLEF is the first attempt at an answer.`
 
 ---
 
-### The Silent War
+## Research
 
-> Four MIT graduate courses. Self-funded. Fully online.  
-> No classroom. No peers. No external structure — only discipline versus distraction.  
-> 
-> Every session I felt the invisible battle: notifications, open tabs, wandering thoughts — all fighting for the same finite resource.  
-> **Attention.**  
-> 
-> I finished strong, but the experience left me acutely aware of how fragile deep work has become in the digital age.  
-> 
-> That realization became the origin of my research.
+### DeepLens Engine for Focus (DLEF) · Gold Award Top 5% · Preprint 2026
 
-**Deep work is not a productivity hack. It is the last true competitive advantage of ambitious minds.**
+Attention modelled as a time-series signal — not a per-frame label. The 20/30s temporal heuristic captures how focus accumulates and decays. Six cognitive states. On-device inference. No video storage. Shipped as DeepWork AI.
+
+`// open: cross-subject generalisation · EEG-vision fusion · edge deployment`
+
+`YOLOv11n-cls` `MediaPipe` `OpenCV` `PyTorch` `Next.js` `Flask`
+
+→ [doi.org/10.5281/zenodo.19266394](https://doi.org/10.5281/zenodo.19266394)
 
 ---
 
-### DeepLens Engine for Focus (DLEF) — Gold Award · Top 5% · 2026 Preprint
+## Journey
 
-I model **attention as a temporal signal** rather than isolated per-frame labels.  
-Using a 20–30 second temporal window, the system captures how focus accumulates and decays over time.
-
-**Six cognitive states** · Real-time on-device inference · Privacy-first (no video stored)  
-Now live as **DeepWork AI**.
-
-**Built with** — `YOLOv11n-cls` · `MediaPipe` · `OpenCV` · `PyTorch` · `Next.js` · `Flask`
-
-**[→ Read the Preprint](https://doi.org/10.5281/zenodo.19266394)**
-
-*Open frontiers I'm exploring:*  
-Cross-subject generalization · EEG–Vision fusion · True edge deployment
+| | | |
+|---|---|---|
+| 2018–2022 | **Superintendent · Meed Public School** | 300 students · the origin |
+| 2021–2025 | **BSc CS · USM Malaysia** | GPA 3.82 · Dean's List 3x |
+| 2024–2025 | **MicroMasters · MITx** | Data Analysis 93% · ML 83% |
+| 2024–2025 | **DeepWork AI / DLEF** | Gold Award · Zenodo preprint |
+| 2026–now | **CV Lab Fellow · WorldQuant** | 6 CV projects · active |
 
 ---
 
-### Trajectory
+## Stack
 
-| Period          | Role / Milestone                              | Key Highlights |
-|-----------------|-----------------------------------------------|----------------|
-| 2018–2022       | Superintendent — Meed Public School           | Led 300 students. Systems thinking began here. |
-| 2021–2025       | BSc Computer Science — USM Malaysia           | GPA 3.82 · Dean’s List ×3 |
-| 2024–2025       | MITx MicroMasters                             | Data Analysis: 93% · Machine Learning: 83% |
-| 2024–2025       | DeepWork AI & DLEF                            | Gold Award · Zenodo Preprint |
-| 2026–Present    | CV Lab Fellow — WorldQuant                    | Six active Computer Vision projects |
+`PyTorch` `YOLOv11` `MediaPipe` `OpenCV` `Python` `Scikit-learn` `Next.js` `PostgreSQL` `Hugging Face` `Drizzle ORM` `Twilio` `Flask` `Git`
 
 ---
 
-### Craft & Tools
+## Current Focus
 
-Core          → PyTorch · YOLOv11 · MediaPipe · OpenCV
-Engineering   → Next.js · Flask · PostgreSQL · Drizzle ORM · Twilio
-Research      → Hugging Face · Scikit-learn · Git
+```
+→ Funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester  // Fall 2026
+→ Next: EEG + vision fusion for proactive distraction prediction    // open problem
+→ Co-founding Meed — systems-first school, Jharkhand               // ongoing
+```
 
-Horizon 2026
-Bash→ Seeking fully-funded MSc / PhD in Computer Vision — Fall 2026
-   • KAUST • MBZUAI • University of Edinburgh • University of Manchester
-Current Obsession
-EEG + Vision fusion for proactive distraction prediction — an open and exciting research frontier.
-Parallel Mission
-Co-founding Meed — a systems-first school in Jharkhand, India.
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=default&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=default&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NafisAslam70&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NafisAslam70&theme=tokyonight&hide_border=true&background=0D1117&ring_color=58A6FF&fire_color=FF7B72&sideNums_color=C9D1D9" width="49%" />
+---
 
-
-
-"Success is a war between discipline and distraction."
-— Nafis Aslam
-
-Building quietly. Thinking deeply. Protecting what matters most — human focus.
-
+`// "Success is a war between discipline and distraction." — Nafis Aslam`
