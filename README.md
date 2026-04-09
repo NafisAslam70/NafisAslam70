@@ -12,7 +12,7 @@
 
 ---
 
-our graduate MIT courses. Online. Self-funded. No classroom, no peers, no structure — just a screen and every possible distraction competing for the same mental space. I finished strong. But I was aware throughout of how close I was to losing it. That kind of learning — high-stakes, self-directed, no external scaffolding — demands a level of sustained attention that no tool seriously supports. Deep work isn't a productivity hack. It's the only way ambitious people actually get hard things done. And it's under assault.
+Four graduate MIT courses. Online. Self-funded. No classroom, no peers, no structure — just a screen and every possible distraction competing for the same mental space. I finished strong. But I was aware throughout of how close I was to losing it. That kind of learning — high-stakes, self-directed, no external scaffolding — demands a level of sustained attention that no tool seriously supports. Deep work isn't a productivity hack. It's the only way ambitious people actually get hard things done. And it's under assault.
 // this is the problem. DLEF is the first attempt at an answer.*
 
 ---
