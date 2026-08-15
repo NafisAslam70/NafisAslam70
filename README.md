@@ -23,7 +23,7 @@
 
 ### The Silent War
 
-> Four MIT graduate courses. Self-funded. Fully online.  
+> Four MIT graduate courses.  
 > No classroom. No peers. No external structure — only discipline versus distraction.  
 > 
 > Every session I felt the invisible battle: notifications, open tabs, wandering thoughts — all fighting for the same finite resource.  
