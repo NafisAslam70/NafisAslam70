@@ -61,7 +61,9 @@ Cross-subject generalization · EEG–Vision fusion · True edge deployment
 | 2021–2025 | **BSc CS · USM Malaysia** | GPA 3.82 · Dean's List 3x |
 | 2024–2025 | **MicroMasters · MITx** | Data Analysis 93% · ML 83% |
 | 2024–2025 | **DeepWork AI / DLEF** | Gold Award · Zenodo preprint |
+| 2025–2026 | **Internship · Indian Statistical Institute (ISI)** | Completed |
 | 2026–now | **CV Lab Fellow · WorldQuant** | 6 CV projects · active |
+| 2026–now | **Joint Master's · IIT Madras + University of Birmingham** | Data Science & Artificial Intelligence |
 
 ---
 
@@ -74,9 +76,10 @@ Cross-subject generalization · EEG–Vision fusion · True edge deployment
 ## Current Focus
 
 ```
-→ Funded MSc/PhD in CV — KAUST · MBZUAI · Edinburgh · Manchester  // Fall 2026
-→ Next: EEG + vision fusion for proactive distraction prediction    // open problem
-→ Co-founding Meed — systems-first school, Jharkhand               // ongoing
+→ Joint Master's in Data Science & Artificial Intelligence — IIT Madras + University of Birmingham
+→ IITM academics: MFDS · FML · DSDS
+→ Personal DSA journey: LeetCode + Coding Ninjas
+→ WorldQuant Computer Vision and independent Computer Vision & Deep Learning projects
 ```
 
 ---
