@@ -2,7 +2,7 @@
 
 # Nafis Aslam
 
-### Full-Stack Software Engineer · Applied AI/ML Engineer · Software Engineer
+### Full-Stack Developer · Applied AI/ML Engineer · Software Engineer
 
 **Open to Kuwait-based opportunities**  
 Building web applications, data-driven tools, and practical AI systems from idea to deployment.
