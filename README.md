@@ -43,14 +43,14 @@ I’m open to product teams, enterprise software, education technology, and AI-e
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/NafisAslam70/DeepWorkAI"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/deepwork-ai.svg" alt="DeepWork AI project preview" width="100%"></a>
+<a href="https://github.com/NafisAslam70/DeepWorkAI"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/dw.png" alt="DeepWork AI project preview" width="100%"></a>
 <h3>DeepWork AI</h3>
 <p>AI-assisted focus and productivity app combining focus sessions, goals, analytics, and privacy-conscious webcam attention signals.</p>
 <p><strong>Tech:</strong> Next.js, Flask, Python, PostgreSQL, YOLO, MediaPipe, OpenCV, PyTorch<br>
 <a href="https://github.com/NafisAslam70/DeepWorkAI">Repository</a> · <a href="https://deep-work-ai-nu.vercel.app">Live app</a> · <a href="https://youtu.be/Je0_qLxRbX8">Demo</a> · <a href="https://doi.org/10.5281/zenodo.19266394">Research</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/NafisAslam70/MeedianAI-Flow-v2"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/meedian-ai-flow.svg" alt="MeedianAI Flow project preview" width="100%"></a>
+<a href="https://github.com/NafisAslam70/MeedianAI-Flow-v2"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/meedian.png" alt="MeedianAI Flow project preview" width="100%"></a>
 <h3>MeedianAI Flow v2</h3>
 <p>A role-based workspace for school and community operations, including schedules, tasks, attendance, messaging, approvals, and reporting.</p>
 <p><strong>Tech:</strong> Next.js, React, PostgreSQL, Drizzle ORM, Prisma, Redis, NextAuth<br>
@@ -59,7 +59,7 @@ I’m open to product teams, enterprise software, education technology, and AI-e
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/NafisAslam70/UF-Internship-hhs-care-forecast"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/hhs-forecast.svg" alt="HHS Care Forecast project preview" width="100%"></a>
+<a href="https://github.com/NafisAslam70/UF-Internship-hhs-care-forecast"><img src="https://raw.githubusercontent.com/NafisAslam70/NafisAslam70/main/assets/HHS_care.png" alt="HHS Care Forecast project preview" width="100%"></a>
 <h3>HHS Care Forecast Dashboard</h3>
 <p>Interactive comparison of baseline, Random Forest, and SARIMA forecasts for care load and discharge demand, with capacity-pressure indicators.</p>
 <p><strong>Tech:</strong> Python, pandas, scikit-learn, statsmodels, Streamlit<br>
